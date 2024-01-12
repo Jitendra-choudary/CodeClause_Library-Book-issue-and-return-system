@@ -1,4 +1,4 @@
-# CodeClause_Library-Book-issue-and-return-system
+# Library-Book-issue-and-return-system
 
 ### It is a pure java base project work which automates the book issue and return system of a library.
 ## Technologies and Tools Used :
